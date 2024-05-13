@@ -65,6 +65,6 @@ public class Edad extends JFrame {
 				ImageIcon(InicioSesion.class.getResource("/imagenes/Edad.jpg")));
 		lblFondo.setBounds(0, 0,1280, 720);
 		getContentPane().add(lblFondo);
-		
+		Esto es un cambio en el codigo
 	}
 }
